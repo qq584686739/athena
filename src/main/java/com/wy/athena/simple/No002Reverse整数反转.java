@@ -38,7 +38,7 @@ package com.wy.athena.simple;
  * @author xjh
  * created on 2021-03-12 9:37 上午
  */
-public class No002Solution {
+public class No002Reverse整数反转 {
     public static void main(String[] args) {
         System.out.println(reverse(-100));
     }
